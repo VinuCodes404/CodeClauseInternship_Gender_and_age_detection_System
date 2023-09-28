@@ -7,3 +7,5 @@ Key components:
 Image dataset, Data Preprocessing, Convolutional Neural Network (CNN), Model training, Callbacks, Prediction, and visualization.
 
 This Model is at its elementary level, we can integrate the model into real-time applications such as video analysis and security systems for immediate detection is a key avenue for improvement. Moreover, enhancing user experience by incorporating the system into user-facing applications for personalized content recommendations represents another promising direction for development.
+
+The dataset is taken from Kaggle.com (face_data).
